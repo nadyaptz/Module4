@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce8025bf-0806-4db8-871e-8997ec7e45f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/fake_math.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/true_math.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ce8025bf-0806-4db8-871e-8997ec7e45f8" name="Changes" comment="ready">
+      <change afterPath="$PROJECT_DIR$/module4_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +69,20 @@
       <option name="presentableId" value="Default" />
       <updated>1722343297729</updated>
     </task>
+    <task id="LOCAL-00001" summary="ready">
+      <option name="closed" value="true" />
+      <created>1722355261614</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722355261614</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
